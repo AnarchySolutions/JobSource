@@ -33,3 +33,15 @@
 ## Prepare
 ### Dev
 ### Ops
+1. How many hosts are in subnet 255.255.255.248(/29)?
+2. How does 3-way handshake work?
+3. How does https work?
+4. DNS recursive vs iterative requests
+5. How does linux use memory?
+6. What's CPU iowait time?
+7. How does IPSEC work? What happens during phase 1? Phase 2? When to use stronger encryption?
+8. Symetric vs asymetric encryption?
+9. Signals in Linux
+10. If I accidentally removed the execute flag from chmod, how can I get it back?
+11. Upsides and downsides of microservice architecture?
+12. What are some of the downsides to distributed systems?
