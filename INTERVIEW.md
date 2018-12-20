@@ -42,7 +42,9 @@
 7. How does IPSEC work? What happens during phase 1? Phase 2? When to use stronger encryption?
 8. Symetric vs asymetric encryption?
 9. Signals in Linux
-   `stty -a`
+
+    `stty -a`
+
 10. If I accidentally removed the execute flag from chmod, how can I get it back?
 11. Upsides and downsides of microservice architecture?
 12. What are some of the downsides to distributed systems?
