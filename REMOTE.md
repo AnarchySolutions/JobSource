@@ -22,9 +22,9 @@
 - https://www.workingnomads.co/remote-golang-jobs
 - [Upwork](https://www.upwork.com/)
 - [Toptal](https://www.toptal.com/)
-###Companies
+### Companies
 - [Kraken](https://jobs.lever.co/kraken)
-###Lists
+### Lists
 - https://github.com/yanirs/established-remote
 ## Valuable Services
 ## Articles
